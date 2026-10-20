@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+
+<html lang="de">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Hamburg Ladebordwand-Service</title>
+
+  <meta name="description" content="Reparatur, Wartung und technische Unterstützung für Ladebordwände in Hamburg und Umgebung.">
+
+  <style>
+
+    * { box-sizing: border-box; }
+
+    body {
+
+      margin: 0;
+
+      font-family: Arial, sans-serif;
+
+      background: #101820;
+
+      color: white;
+
+      line-height: 1.6;
+
+    }
+
+    header {
+
+      padding: 24px 7%;
+
+      background: #080d12;
+
+      border-bottom: 1px solid #293746;
+
+    }
+
+    header h2 { color: #45a3ff; }
+
+    main {
+
+      max-width: 900px;
+
+      margin: auto;
+
+      padding: 70px 24px;
+
+    }
+
+    h1 { font-size: clamp(36px, 7vw, 58px); line-height: 1.1; }
+
+    .highlight { color: #45a3ff; }
+
+    .button {
+
+      display: inline-block;
+
+      margin-top: 20px;
+
+      padding: 14px 24px;
+
+      border-radius: 8px;
+
+      background: #1684ed;
+
+      color: white;
+
+      text-decoration: none;
+
+      font-weight: bold;
+
+    }
+
+    section {
+
+      margin-top: 35px;
+
+      padding: 24px;
+
+      border: 1px solid #293746;
+
+      border-radius: 14px;
+
+      background: #18232e;
+
+    }
+
+    footer {
+
+      padding: 25px;
+
+      text-align: center;
+
+      color: #aab6c3;
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <header>
+
+    <h2>Hamburg Ladebordwand-Service</h2>
+
+  </header>
+
+  <main>
+
+    <h1>Ihr Partner für <span class="highlight">Ladebordwände</span></h1>
+
+    <p>Reparatur, Wartung und technische Unterstützung für Ladebordwände in Hamburg und Umgebung.</p>
+
+    <section>
+
+      <h2>Unsere Leistungen</h2>
+
+      <p>🔧 Reparatur und Instandsetzung</p>
+
+      <p>🛠️ Wartung und technische Diagnose</p>
+
+      <p>⚡ Elektrische Prüfung und Fehlersuche</p>
+
+      <p>🚚 Service für Nutzfahrzeuge und Transporter</p>
+
+    </section>
+
+    <section>
+
+      <h2>Service in Hamburg</h2>
+
+      <p>Sie benötigen Unterstützung für Ihre Ladebordwand? Kontaktieren Sie uns für weitere Informationen und einen Termin.</p>
+
+      <a class="button" href="mailto:info@example.com">Kontakt aufnehmen</a>
+
+    </section>
+
+  </main>
+
+  <footer>
+
+    © 2026 Hamburg Ladebordwand-Service
+
+  </footer>
+
+</body>
+
+</html>
